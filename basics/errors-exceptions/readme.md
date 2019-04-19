@@ -4,4 +4,5 @@
 
 # Method declearation 
 
-# Use of raise
+# Use of else
+- similar to finally block

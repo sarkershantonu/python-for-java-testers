@@ -4,5 +4,7 @@
 
 # Method declearation 
 
-# Use of else
-- similar to finally block
+# else : 
+- resume after try block 
+
+# finally : 

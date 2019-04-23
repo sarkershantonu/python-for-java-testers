@@ -1,7 +1,9 @@
 # python keywords at a glance
 
-and	A logical operator
-as	To create an alias
+# Operators 
+- and	: A logical operator
+- as	: Alias or rename 
+
 assert	For debugging
 break	To break out of a loop
 class	To define a class

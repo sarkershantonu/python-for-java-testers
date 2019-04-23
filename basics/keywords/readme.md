@@ -1,24 +1,39 @@
 # python keywords at a glance
 
-# Operators 
+# Conditional Operators 
 - and	: A logical operator
+- if : To make a conditional statement
+- elif : Used in conditional statements, same as else if
+- else	Used in conditional statements
+
+# Looping 
+- break : To break out of a loop
+- continue : To continue to the next iteration of a loop
+
+# 
 - as	: Alias or rename 
 
-assert	For debugging
-break	To break out of a loop
-class	To define a class
-continue	To continue to the next iteration of a loop
-def	To define a function
-del	To delete an object
-elif	Used in conditional statements, same as else if
-else	Used in conditional statements
+- assert : test/assert for debugging
+
+# OOP
+- class	: defining an object
+
+# User Define Functions
+- def : defining Function 
+- yield	To end a function, returns a generator
+
+# Misc 
+- del : Delete an object
+
+# Exception 
+
 except	Used with exceptions, what to do when an exception occurs
 False	Boolean value, result of comparison operations
 finally	Used with exceptions, a block of code that will be executed no matter if there is an exception or not
 for	To create a for loop
 from	To import specific parts of a module
 global	To declare a global variable
-if	To make a conditional statement
+
 import	To import a module
 in	To check if a value is present in a list, tuple, etc.
 is	To test if two variables are equal
@@ -34,4 +49,4 @@ True	Boolean value, result of comparison operations
 try	To make a try...except statement
 while	To create a while loop
 with	Used to simplify exception handling
-yield	To end a function, returns a generator
+

@@ -10,3 +10,5 @@
 
 # Performance Testing
 - Timing
+
+# Parallel Testing 

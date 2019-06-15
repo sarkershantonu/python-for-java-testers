@@ -1,6 +1,9 @@
 # Virtual Envronment 
 - What is virtual Environment? 
 
+# Best practices 
+- Usually all virtual environments should be under single folder(pydev or vdev) under home folder
+- each version of python should be seperate namig, i put as py36, py27, py37 etc
 
 # Redhat 
 

@@ -17,3 +17,7 @@ Adding in your bash script :
       scl enable rh-python36 bash
       cd ~/pydev
       source py36-env/bin/activate
+
+Deactivation : 
+      
+      deactivate

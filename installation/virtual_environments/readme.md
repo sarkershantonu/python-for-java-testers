@@ -5,6 +5,21 @@
 - Usually all virtual environments should be under single folder(pydev or vdev) under home folder
 - each version of python should be seperate namig, i put as py36, py27, py37 etc
 
+# Windows
+- Install 
+      
+      pip install venv
+      
+- configure , create a folder in a suitable directory and run 
+
+      python -m venv your_path
+ Example : I am creating in my home root under folder py37dev
+ 
+      python -m venv %systemdrive%%homepath%\py37dev
+      
+      
+
+
 # Redhat 
 
 venv comes default python3 installations. 

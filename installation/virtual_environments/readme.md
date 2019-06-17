@@ -30,3 +30,6 @@ Deactivation : (only active when you are inside venv)
       
       deactivate
 
+Delete existing envirnment : 
+
+      venv --clear

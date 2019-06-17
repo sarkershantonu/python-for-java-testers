@@ -7,6 +7,14 @@
 
 # Redhat 
 
+venv comes default python3 installations. 
+
+# Ubuntu/debian  
+
+sudo apt-get install python3-venv
+
+# Settings 
+
       mkdir ~/pydev
       cd ~/pydev
       python3 -m venv py36-venv
@@ -18,6 +26,7 @@ Adding in your bash script :
       cd ~/pydev
       source py36-env/bin/activate
 
-Deactivation : 
+Deactivation : (only active when you are inside venv)
       
       deactivate
+

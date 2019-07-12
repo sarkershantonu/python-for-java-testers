@@ -9,6 +9,10 @@
 # Alure : Run test 
 
     py.test --alluredir=$allure_result_folder ./tests
+    
+- if you want specific test to run 
+ 
+          python3 -m pytest test_class --alluredir=$allure_result_folder
 # Aluure see reports 
     
     allure serve $allure_result_folder

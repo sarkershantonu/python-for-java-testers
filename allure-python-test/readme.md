@@ -11,7 +11,7 @@
     py.test --alluredir=$allure_result_folder ./tests
 # Aluure see reports 
     
-    allure serve %allure_result_folder%
+    allure serve $allure_result_folder
      
 # Local Testing : Installations 
 

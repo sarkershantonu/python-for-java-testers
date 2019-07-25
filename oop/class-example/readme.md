@@ -8,7 +8,9 @@
 
 # Default constructors 
 
-# 
+# Built in class members 
+
+
 # Class structure 
 - indentation 
 - Default constracter 

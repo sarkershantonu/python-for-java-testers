@@ -4,6 +4,11 @@
     class MyClass(Object):
     Class MyClass(My_Parent_Class): 
 
+# Constructors 
+
+# Default constructors 
+
+# 
 # Class structure 
 - indentation 
 - Default constracter 
